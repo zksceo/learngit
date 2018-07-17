@@ -5,4 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 text in branch 'dev'
 
-... in branch 'dev' ...
+... some test text in branch 'dev' ...
+123324342342342424324
