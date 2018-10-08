@@ -9,3 +9,5 @@ text in branch 'dev'
 ... some test text in branch 'dev' ...
 
 dev
+
+Creating a new branch is quick AND simple.
